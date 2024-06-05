@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-05fca736f23efef8\out\build\CMakeFiles\ce22e0dda8cf3cbe76ec95a6138a04a2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F42D2454-4C48-3389-B8D9-1075DAB1A71C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

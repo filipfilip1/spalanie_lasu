@@ -1,0 +1,7 @@
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/lib/raylib.lib
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/include/raylib.h
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/include/rlgl.h
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/include/raymath.h
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/lib/pkgconfig/raylib.pc
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/lib/cmake/raylib/raylib-config.cmake

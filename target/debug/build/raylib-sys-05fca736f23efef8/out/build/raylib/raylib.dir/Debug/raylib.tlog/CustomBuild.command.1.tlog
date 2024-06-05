@@ -1,0 +1,10 @@
+^C:\USERS\FILIP\DESKTOP\STUDIA INF\PROJEKTY\RUST\SPALANIE_LASUU\TARGET\DEBUG\BUILD\RAYLIB-SYS-05FCA736F23EFEF8\OUT\RAYLIB\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/raylib" "-BC:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/build" --check-stamp-file "C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/build/raylib/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

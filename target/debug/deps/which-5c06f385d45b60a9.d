@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\deps\libwhich-5c06f385d45b60a9.rmeta: C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\lib.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\checker.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\error.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\finder.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\helper.rs
+
+C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\deps\libwhich-5c06f385d45b60a9.rlib: C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\lib.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\checker.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\error.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\finder.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\helper.rs
+
+C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\deps\which-5c06f385d45b60a9.d: C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\lib.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\checker.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\error.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\finder.rs C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\helper.rs
+
+C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\lib.rs:
+C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\checker.rs:
+C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\error.rs:
+C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\finder.rs:
+C:\Users\filip\.cargo\registry\src\index.crates.io-6f17d22bba15001f\which-4.4.2\src\helper.rs:

@@ -1,0 +1,10 @@
+^C:\USERS\FILIP\DESKTOP\STUDIA INF\PROJEKTY\RUST\SPALANIE_LASUU\TARGET\DEBUG\BUILD\RAYLIB-SYS-05FCA736F23EFEF8\OUT\BUILD\CMAKEFILES\618AB4EDE705BFA092B8EB3F3DF9AF8E\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

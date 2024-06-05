@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\CMakeFiles\636b96ce023f8fc88318fc47beb1eaf0\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AB5A5BAC-B338-327C-80FA-8A3875FDFFEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A8C78FF6-BD6C-3984-90EF-1E2DA989BE0D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

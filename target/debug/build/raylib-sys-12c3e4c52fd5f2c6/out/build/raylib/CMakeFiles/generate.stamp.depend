@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Templates/CPackConfig.cmake.in
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/CompileDefinitions.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/GlfwImport.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/InstallConfigurations.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/JoinPaths.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/LibraryConfigurations.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/LibraryPathToLinkerFlags.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/PackConfigurations.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/PopulateConfigVariablesLocally.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/cmake/raylib-config-version.cmake
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/raylib.pc.in
+C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-12c3e4c52fd5f2c6/out/raylib/src/CMakeLists.txt

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\rcore.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\rmodels.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\rshapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\rtext.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\rtextures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\raudio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\raylib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\rlgl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\raymath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\raylib\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\input.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\platform.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\vulkan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\egl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\osmesa_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_module.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_time.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_thread.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\filip\Desktop\Studia INF\Projekty\Rust\spalanie_lasuu\target\debug\build\raylib-sys-12c3e4c52fd5f2c6\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\wgl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A8C78FF6-BD6C-3984-90EF-1E2DA989BE0D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{EFC6141F-855A-3799-B710-B075012B7588}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{782B6587-1D52-3ABB-B244-BABF68C1A1E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

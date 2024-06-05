@@ -1,0 +1,13 @@
+prefix=C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out
+exec_prefix=${prefix}
+includedir=C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/include
+libdir=C:/Users/filip/Desktop/Studia INF/Projekty/Rust/spalanie_lasuu/target/debug/build/raylib-sys-05fca736f23efef8/out/lib
+
+Name: GLFW
+Description: A multi-platform library for OpenGL, window and input
+Version: 3.4.0
+URL: https://www.glfw.org/
+Requires.private: 
+Libs: -L${libdir} -lglfw3
+Libs.private:  -lgdi32
+Cflags: -I${includedir}
